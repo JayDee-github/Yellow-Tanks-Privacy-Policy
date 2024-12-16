@@ -1,4 +1,4 @@
 # Yellow-Tanks-Privacy-Policy
 
 Yellow Tanks Privacy Policy:
-  No data of any kidn is collected, shared, or stored.
+  No data of any kind is collected, shared, or stored.
